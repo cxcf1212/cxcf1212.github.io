@@ -1,52 +1,13 @@
 ---
 title: 'About'
-date: 2018-02-22T17:01:34+07:00
+date: 2021-06-15T21:35:34+07:00
 layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
-
-## Ne verba patulosque numen vix libet
-
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
-
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+* 3年UI设计、3年交互与用户体验（UX）设计、2年产品经理（C端为主）
+* 熟练使用Axure、XMind、Sketch、Ps、Omnigraffle、figma等软件
+* 项目经验丰富，有3年+团队管理经验，推动多款项目实现从0到1
+* 具有设计/交互/开发思维，了解上下游各个岗位，能更好的进行跨团队协作与沟通
+* 热爱产品工作，善于倾听与抓住关键问题点，逻辑思维清晰，责任心强
+* 可完成市场分析、需求分析、产品功能设计、业务流程设计、需求文档（PRD）、原型设计、业务测试与版本迭代管理等工作内容
