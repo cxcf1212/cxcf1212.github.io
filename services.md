@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# 项目经验
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+具有设计/交互/开发思维，了解上下游各个岗位，能更好的进行跨团队协作与沟通
