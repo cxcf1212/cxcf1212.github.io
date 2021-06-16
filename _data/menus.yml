@@ -2,7 +2,7 @@ main:
   - name: "首页"
     url: "/"
     weight: 1
-  - name: "项目"
+  - name: "项目经验"
     url: "/services/"
     weight: 2
   # - name: "Team"

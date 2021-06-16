@@ -1,13 +1,14 @@
 ---
-title: Jekyll Serif Theme
+title: 道阻且长，行则将至。 
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: 能持续努力的人，是有了相对成熟的心理：我未必能立即掌握一个事物，但只要我持续努力，并且尊重这一事物自身的规律，我会与这一事物建立起很好的关系。
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# I'm a designer 
+# 道阻且长，行则将至。 
 
-3年UI设计、3年交互与用户体验（UX）设计、2年产品经理（C端为主）。 <br><br> 热爱产品工作，善于倾听与抓住关键问题点，逻辑思维清晰，责任心强。
+能持续努力的人，是有了相对成熟的心理：我未必能立即掌握一个事物，但只要我持续努力，并且尊重这一事物自身的规律，我会与这一事物建立起很好的关系。
+
 
