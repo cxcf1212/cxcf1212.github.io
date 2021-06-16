@@ -1,5 +1,5 @@
 ---
-title: '关于我'
+title: '吃我安利'
 date: 2021-06-15T21:35:34+07:00
 layout: page
 bodyClass: page-about
