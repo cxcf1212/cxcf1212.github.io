@@ -1,12 +1,10 @@
 ---
-title: '吃我安利'
-date: 2021-06-16
+title: Services
 layout: services
-<!-- layout: page
-bodyClass: page-about -->
-intro_image: "images/illustrations/about.svg"
+intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
+
 ---
 
 
