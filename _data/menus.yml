@@ -8,7 +8,7 @@ main:
   # - name: "Team"
   #   url: "/team/"
   #   weight: 3
-  - name: "关于我"
+  - name: "吃我安利"
     url: "/about/"
     weight: 3
   # - name: "Contact"
