@@ -7,10 +7,6 @@ bodyClass: page-about
 
 ### 我的最爱TOP排行榜
 
- <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img src="images/illustrations/reading.svg" />
-      </div>
-	  
 	  
 ## 🏫 课程：
 1. 《梁宁 · 产品思维30讲》🏅
