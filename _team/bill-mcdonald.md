@@ -1,11 +1,11 @@
 ---
 title: "Bill McDonald"
-date: 2018-11-19T10:47:58+10:00
+date: 2021-06-17
 draft: false
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Graphic Designer"
 promoted: true
-weight: 7
+weight: 1
 layout: team
 ---
 
