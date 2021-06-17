@@ -5,12 +5,12 @@ main:
   - name: "项目经验"
     url: "/services/"
     weight: 2
-  # - name: "Team"
-  #   url: "/team/"
-  #   weight: 3
+  - name: "技术团队"
+    url: "/team/"
+    weight: 3
   - name: "吃我安利"
     url: "/about/"
-    weight: 3
+    weight: 4
   # - name: "Contact"
   #   url: "/contact/"
   #   weight: 5
@@ -22,3 +22,9 @@ footer:
   - name: "项目经验"
     url: "/services/"
     weight: 2
+  - name: "技术团队"
+    url: "/team/"
+    weight: 3
+  - name: "吃我安利"
+    url: "/about/"
+    weight: 4
