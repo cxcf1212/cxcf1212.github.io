@@ -5,7 +5,7 @@ main:
   - name: "项目经验"
     url: "/services/"
     weight: 2
-  - name: "技术团队"
+  - name: "攻城狮们"
     url: "/team/"
     weight: 3
   - name: "吃我安利"
@@ -22,7 +22,7 @@ footer:
   - name: "项目经验"
     url: "/services/"
     weight: 2
-  - name: "技术团队"
+  - name: "攻城狮们"
     url: "/team/"
     weight: 3
   - name: "吃我安利"
