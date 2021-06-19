@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 与我联系
 layout: contact
 bodyClass: page-contact
 ---
