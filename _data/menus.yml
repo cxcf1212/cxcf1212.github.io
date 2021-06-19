@@ -11,9 +11,9 @@ main:
   - name: "吃我安利"
     url: "/about/"
     weight: 4
-  # - name: "Contact"
-  #   url: "/contact/"
-  #   weight: 5
+  - name: "联系方式"
+    url: "/contact/"
+    weight: 5
 
 footer:
   - name: "首页"
@@ -28,3 +28,6 @@ footer:
   - name: "吃我安利"
     url: "/about/"
     weight: 4
+  - name: "联系方式"
+    url: "/contact/"
+    weight: 5

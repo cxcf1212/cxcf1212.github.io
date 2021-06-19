@@ -6,11 +6,35 @@ bodyClass: page-contact
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/cxcf1212",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/cxcf1212",
+    "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "Behance",
+    "link": "https://www.behance.net/yanglanlan",
+    "image": "images/social/behance.svg"
+  },
+  {
+    "name": "Dribbble",
+    "link": "https://dribbble.com/yanglanlan",
+    "image": "images/social/dribbble.svg"
+  },
+  {
+    "name": "UI中国",
+    "link": "https://i.ui.cn/ucenter/93383.html?type=work",
+    "image": "images/social/uichina.svg"
+  },
+  {
+    "name": "Telegram",
+    "link": "https://t.me/yanglanlan",
+    "image": "images/social/telegram.svg"
+  }
+]
