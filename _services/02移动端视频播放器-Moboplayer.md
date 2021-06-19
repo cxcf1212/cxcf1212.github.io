@@ -1,14 +1,15 @@
 ---
-title: "移动端视频播放器-Moboplayer"
+title: "Moboplayer"
 date: 2021-11-18
 featured: true
 weight: 6
 layout: service
 ---
 
-![Moboplayer](/images/paper/mobo.jpg)
-
-- 【公司项目】APP（播放器）
+![Moboplayer](/images/paper/mobo@2x.png)
+ Google Play评分4.2
+ 2015.07—2018.09
+- 【公司项目】移动端视频播放器APP
 
 ### MoboPlayer是一款以本地音/视频播放为主、电视台节目播放为辅的播放器，拥有良好的解码能力和多样化的功能，安卓版本目前累计有三千万用户下载使用，IOS版本目前累计七万用户下载使用。
 
