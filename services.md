@@ -6,7 +6,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# 个人介绍
+# 个人介绍 🦁
 <p>萌新产品一枚，8年互联网工作经验。其中包括3年UI设计、3年交互与用户体验设计、2年产品经理经验</p>
 <p><br></p>
 
