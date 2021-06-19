@@ -4,37 +4,10 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
-[
-  {
-    "name": "Github",
-    "link": "https://github.com/cxcf1212",
-    "image": "images/social/github.svg"
-  },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/cxcf1212",
-    "image": "images/social/twitter.svg"
-  },
-  {
-    "name": "Behance",
-    "link": "https://www.behance.net/yanglanlan",
-    "image": "images/social/behance.svg"
-  },
-  {
-    "name": "Dribbble",
-    "link": "https://dribbble.com/yanglanlan",
-    "image": "images/social/dribbble.svg"
-  },
-  {
-    "name": "UI中国",
-    "link": "https://i.ui.cn/ucenter/93383.html?type=work",
-    "image": "images/social/uichina.svg"
-  },
-  {
-    "name": "Telegram",
-    "link": "https://t.me/yanglanlan",
-    "image": "images/social/telegram.svg"
-  }
-]
+## [Telegram](https://t.me/yanglanlan)
+## [Behance](https://www.behance.net/yanglanlan)
+## [Dribbble](https://dribbble.com/yanglanlan)
+## [UI中国](https://i.ui.cn/ucenter/93383.html?type=work)
+## [Github](https://github.com/cxcf1212)
+
