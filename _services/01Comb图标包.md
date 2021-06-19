@@ -8,7 +8,7 @@ layout: service
 
 - 个人项目
 - 本图标包基于@by-syk 开源的NanoIconPack图标包模板为基础进行二次开发，项目地址：[github](https://github.com/by-syk/NanoIconPack)
-- 申请图标适配以及图标包相关问题反馈请发邮件到 [angran_comb.foxmail.com](mailto:yangran_comb.foxmail.com)
+- 申请图标适配以及图标包相关问题反馈请发邮件到 [yangran_comb.foxmail.com)](mailto:yangran_comb.foxmail.com)
 
 ----
 
