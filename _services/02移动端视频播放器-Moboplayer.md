@@ -2,7 +2,7 @@
 title: "Moboplayer"
 date: 2021-11-18
 featured: true
-weight: 6
+weight: 2
 layout: service
 ---
 
