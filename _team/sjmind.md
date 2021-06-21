@@ -9,7 +9,7 @@ weight: 1
 layout: team
 ---
 
-- 擅长跨平台客户端开发如Qt，Electron，音视频编解码FFmpeg框架；
+- 擅长跨平台客户端开发，如Qt、Electron、音视频编解码FFmpeg框架等；
 - 流媒体服务端开发，webrtc音视频通话；
 - Linux下服务端多线程，高并发epoll网络编程开发有一定实践；
 - 熟悉c/c++，golang，移动端开发，Vue.js；
