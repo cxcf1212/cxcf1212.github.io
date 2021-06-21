@@ -3,13 +3,13 @@
   flex-wrap: wrap;
   flex-direction: row;
   .team-image {
-    height: 60px;
-    width: 60px;
+    height: 66px;
+    width: 66px;
     margin-right: 10px;
     border-radius: 50%;
     overflow: hidden;
     img {
-      width: 60px;
+      width: 66px;
     }
   }
   .team-meta {
@@ -17,14 +17,14 @@
     flex: 1;
     h2 {
       margin: 0;
-      font-size: 28px;
+      font-size: 26px;
       font-weight: normal;
     }
     p {
       color: #333333;
       text-transform: uppercase;
       margin: 0;
-      font-size: 18px;
+      font-size: 16px;
       font-weight: 500;
     }
   }
@@ -46,7 +46,7 @@
     border-radius: 50%;
     overflow: hidden;
     img {
-      width: 90px;
+      width: 66px;
     }
   }
 }
