@@ -3,9 +3,9 @@ title: "sjmind"
 date: 2021-06-21
 draft: false
 image: "images/team/sun.png"
-jobtitle: "高级开发工程师（11年）"
+jobtitle: "高级开发工程师"
 promoted: true
-weight: 1
+weight: 2
 layout: team
 ---
 
